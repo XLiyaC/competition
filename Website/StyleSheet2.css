@@ -1,0 +1,23 @@
+﻿body {
+}
+a:link {
+    text-decoration: underline;
+    font-family: 仿宋;
+    font-size: 20px;
+    font-weight: bold;
+}
+a:hover {
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: #284E98;
+}
+a:active {
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #FF0000;
+    text-decoration: underline;
+    font-style: italic;
+}
